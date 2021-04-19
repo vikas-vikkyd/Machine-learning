@@ -1,6 +1,5 @@
 # Machine-learning
 This project Includes all training code for Machine Learning and Deep Learning.
-Training includes:
 1. CNN
 2. NLP
 3. Time series
